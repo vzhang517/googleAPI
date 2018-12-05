@@ -1,0 +1,27 @@
+{
+  "name": "apichallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vincentzhang517@bitbucket.org/vincentzhang517/apichallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vincentzhang517/apichallenge#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "axios": "^0.18.0",
+    "chai": "^4.1.2",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "nock": "^9.4.3",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
