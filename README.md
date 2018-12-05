@@ -1,4 +1,4 @@
-# apiChallenge
+# Google API
 
 Node.js application that returns locations using the Google places API
 
